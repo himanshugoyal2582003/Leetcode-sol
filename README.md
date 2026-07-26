@@ -7,12 +7,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
 ## Sorting
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
