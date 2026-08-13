@@ -106,8 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0345-reverse-vowels-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
