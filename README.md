@@ -118,4 +118,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+## Stack
+|  |
+| ------- |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 <!---LeetCode Topics End-->
