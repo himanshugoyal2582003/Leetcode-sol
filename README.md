@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0345-reverse-vowels-of-a-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0345-reverse-vowels-of-a-string) |
