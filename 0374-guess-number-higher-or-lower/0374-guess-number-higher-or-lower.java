@@ -12,11 +12,11 @@ public class Solution extends GuessGame {
                 return mid;
             } 
             else if (res == -1) {
-                // hidden number is smaller
+                
                 r = mid - 1;
             } 
             else {
-                // hidden number is larger
+                
                 l = mid + 1;
             }
         }
