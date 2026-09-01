@@ -1,7 +1,6 @@
 class Solution {
     public String findLongestWord(String s, List<String> dictionary) {
         String sc = "";
-        Collections.sort(dictionary);
         for( String t : dictionary){
             int i =0, j=0;
 
