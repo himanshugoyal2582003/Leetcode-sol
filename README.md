@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -166,11 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0392-is-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0680-valid-palindrome-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Backtracking
 |  |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0374-guess-number-higher-or-lower) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
