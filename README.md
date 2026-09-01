@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0392-is-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0977-squares-of-a-sorted-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0680-valid-palindrome-ii) |
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1003-check-if-word-is-valid-after-substitutions) |
