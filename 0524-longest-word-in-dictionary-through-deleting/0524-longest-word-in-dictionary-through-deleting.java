@@ -12,9 +12,11 @@ class Solution {
                 i++;
             }
 
-            if(j==t.length() && sc.length()<t.length()){
-                sc = t;
-            }
+            if(j == t.length() &&
+   (sc.length() < t.length() ||
+   (sc.length() == t.length() && t.compareTo(sc) < 0))) {
+    sc = t;
+}
         }
 
         return sc ;
