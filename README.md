@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
+| [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
 | [3731-find-missing-elements](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/3731-find-missing-elements) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0392-is-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
+| [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0202-happy-number) |
+| [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,4 +214,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
