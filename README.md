@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [3731-find-missing-elements](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [3731-find-missing-elements](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0977-squares-of-a-sorted-array) |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
