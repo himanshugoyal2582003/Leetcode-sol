@@ -17,7 +17,7 @@ class Solution {
                 if (target % y == 0) {
                     long z = target / y;
 
-                    if (z > Integer.MAX_VALUE) continue;
+                    // if (z > Intege/r.MAX_VALUE) continue;
 
                     if (map.containsKey((int) z)) {
                         if (y < z)
