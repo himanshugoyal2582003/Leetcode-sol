@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0633-sum-of-square-numbers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Tree
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 ## Two Pointers
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0392-is-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
