@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0881-boats-to-save-people) |
+| [0923-3sum-with-multiplicity](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0881-boats-to-save-people) |
+| [0923-3sum-with-multiplicity](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0923-3sum-with-multiplicity](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0923-3sum-with-multiplicity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0881-boats-to-save-people) |
+| [0923-3sum-with-multiplicity](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0977-squares-of-a-sorted-array) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0881-boats-to-save-people) |
+## Counting
+|  |
+| ------- |
+| [0923-3sum-with-multiplicity](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0923-3sum-with-multiplicity) |
 <!---LeetCode Topics End-->
