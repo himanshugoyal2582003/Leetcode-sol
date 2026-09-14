@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0392-is-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1137-n-th-tribonacci-number) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [3871-count-commas-in-range-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0836-rectangle-overlap) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
