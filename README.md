@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0611-valid-triangle-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
+| [0875-koko-eating-bananas](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0923-3sum-with-multiplicity) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
