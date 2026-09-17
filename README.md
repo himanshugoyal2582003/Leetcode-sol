@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0923-3sum-with-multiplicity](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0923-3sum-with-multiplicity) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0344-reverse-string) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1137-n-th-tribonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
