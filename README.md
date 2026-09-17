@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0198-house-robber) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0392-is-subsequence) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0202-happy-number) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Backtracking
@@ -294,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
