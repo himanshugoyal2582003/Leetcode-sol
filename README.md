@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1137-n-th-tribonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [3871-count-commas-in-range-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Memoization
 |  |
 | ------- |
