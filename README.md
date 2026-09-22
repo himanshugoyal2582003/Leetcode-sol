@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
 |  |
 | ------- |
@@ -311,4 +315,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
