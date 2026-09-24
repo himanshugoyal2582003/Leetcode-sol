@@ -2,7 +2,7 @@ class Solution {
     public int matchPlayersAndTrainers(int[] players, int[] trainers) {
         int i = 0;
         int j = 0;
-        int c = 0;
+        
 
         Arrays.sort(players);
         Arrays.sort(trainers);
@@ -11,12 +11,12 @@ class Solution {
 
             if (players[i] <= trainers[j]) {
                 i++;
-                c++;
+            
             }
 
             j++;
         }
 
-        return c;
+        return i;
     }
 }
