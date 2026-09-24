@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2105-watering-plants-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2105-watering-plants-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2105-watering-plants-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2105-watering-plants-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
+| [2105-watering-plants-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2105-watering-plants-ii) |
 ## Minimax
 |  |
 | ------- |
