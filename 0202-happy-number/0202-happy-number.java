@@ -1,18 +1,22 @@
 class Solution {
-    int sum(int a){
-         String h = ""+a;
-         int Sum =0;
-         for(int i =0 ; i< h.length(); i++){
-            int d = h.charAt(i)-'0';
-            Sum = Sum + d*d;
-         }
-         return Sum;
+    int sum(int n){
+        int s=0;
+        while(n>0){
+            int digit = n % 10;
+            s += digit * digit;
+            n /= 10;
+        }
+        return s;
     }
     public boolean isHappy(int n) {
-        while(n>=9){
-             n = sum(n);
-        }
-        if(n==1 || n==7){return true;}
-        return false;
+        int slow = n;
+        int fast = n;
+
+        do{
+            slow=sum(slow);
+            fast=sum(sum(fast));
+        }while(slow!=fast);
+
+        return slow==1;
     }
 }
