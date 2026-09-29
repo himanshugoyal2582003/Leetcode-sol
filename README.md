@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
