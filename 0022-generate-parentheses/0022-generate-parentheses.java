@@ -5,8 +5,7 @@ class Solution {
         return ans;
     }
 
-    private void backtrack(List<String> ans, String s,
-                           int open, int close, int n) {
+    private void backtrack(List<String> ans, String s,int open, int close, int n) {
 
         if (s.length() == 2 * n) {
             ans.add(s);
