@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0948-bag-of-tokens) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0392-is-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1137-n-th-tribonacci-number) |
 | [2560-house-robber-iv](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2560-house-robber-iv) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0392-is-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0678-valid-parenthesis-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
