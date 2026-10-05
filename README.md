@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0856-score-of-parentheses) |
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0856-score-of-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
