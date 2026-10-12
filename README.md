@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2560-house-robber-iv](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/3731-find-missing-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3731-find-missing-elements](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Floyd's Cycle Finding Algorithm
 |  |
