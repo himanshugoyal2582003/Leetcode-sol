@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0986-interval-list-intersections) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -409,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0209-minimum-size-subarray-sum) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
