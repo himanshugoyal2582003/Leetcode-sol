@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2560-house-robber-iv](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/2560-house-robber-iv) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
 |  |
