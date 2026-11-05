@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
