@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0633-sum-of-square-numbers) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/himanshugoyal2582003/Leetcode-sol/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
